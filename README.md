@@ -1,2 +1,2 @@
 # Travelling-Site
-This is a website where you can plan your vacations. 
+This is a website where you can plan your vaccations. 
